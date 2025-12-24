@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Reemplaza la URL de abajo cuando tengas tu dominio real (ej: .vercel.app)
-Sitemap: https://bryansanchez.vercel.app/sitemap.xml
+Sitemap: https://portafoliobryan-s.vercel.app/sitemap.xml
