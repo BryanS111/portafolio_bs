@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Reemplaza la URL de abajo cuando tengas tu dominio real (ej: .vercel.app)
+Sitemap: https://bryansanchez.vercel.app/sitemap.xml

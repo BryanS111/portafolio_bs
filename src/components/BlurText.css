@@ -1,0 +1,12 @@
+.blur-text-element {
+  filter: blur(10px);
+  opacity: 0;
+  display: inline-block;
+  transition: filter 0.3s ease, opacity 0.3s ease;
+  transform: translate3d(0, 0, 0);
+}
+
+.blur-text-element.visible {
+  filter: blur(0);
+  opacity: 1;
+}
