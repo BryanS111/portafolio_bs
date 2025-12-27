@@ -13,7 +13,7 @@ const Projects = () => {
       subtitle: "Plataforma de Ventas B2B",
       description: "Solución completa de comercio para empresa salvadoreña en el area de mecatronica con gestión de inventario en tiempo real y panel administrativo personalizado. Diseñado bajo acuerdos de confidencialidad.",
       tech: ["React.js", "Node.js", "MongoDB"],
-      image: "skyautomation.png", // Foto de fondo
+      image: "skyautomation.webp", // Foto de fondo
       video: "/videos/skyautomation_.mp4" // <--- AQUÍ PONDRÁS LA RUTA DE TU VIDEO LOCAL
     },
     {
@@ -21,7 +21,7 @@ const Projects = () => {
       subtitle: "Presencia Web para emprendimientos locales",
       description: "Sitio Web para cafetería con diseño moderno y funcionalidad intuitiva. Incluye menú interactivo, galería de imágenes y formulario de contacto. Optimizado para SEO y velocidad.",
       tech: ["React.js", "Firebase", "Tailwind CSS"],
-      image: "patronumcafe.png",
+      image: "patronumcafe.webp",
       video: "/videos/patronumcafe_.mp4"
     },
     {
@@ -29,7 +29,7 @@ const Projects = () => {
       subtitle: "Integrando la IA a la educación",
       description: "Plataforma educativa innovadora que combina inteligencia artificial con contenido interactivo para mejorar el aprendizaje a traves de diferentes metodologías de estudio. Proyecto desarrollado para el Centro Educativo Colonia Sensunapan.",
       tech: ["React.js", "Tailwind CSS", "OpenAI API"],
-      image: "sensulearning.png",
+      image: "sensulearning.webp",
       video: "/videos/sensulearning_.mp4"
     },
     {
@@ -37,7 +37,7 @@ const Projects = () => {
       subtitle: "Optimización de procesos de reclutamiento",
       description: "Sistema automatizado para escanear y analizar currículums usando inteligencia artificial. Permite filtrar candidatos según criterios específicos, mejorando la eficiencia del proceso de selección de una gran cantidad de hojas de vida.",
       tech: ["Python", "Tkinter", "DeepSearch API"],
-      image: "vitaescan.jpeg",
+      image: "vitaescan.webp",
       video: "/videos/vitaescan_.mp4"
     }
   ];
