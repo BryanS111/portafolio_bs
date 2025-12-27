@@ -1,6 +1,6 @@
 import { useState } from "react";
 // Importa tu foto
-import profilePic from '../assets/picPerfil.webp'; 
+import profilePic from '../assets/picPerfil.png'; 
 // IMPORTA TU PDF AQUÍ (Asegúrate que el nombre coincida exactamente)
 import cvFile from '../assets/BryanSanchez_CV.pdf'; 
 
