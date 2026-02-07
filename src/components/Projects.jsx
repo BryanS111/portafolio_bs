@@ -11,7 +11,7 @@ const Projects = () => {
     {
       title: "E-Commerce Exclusivo",
       subtitle: "Plataforma de Ventas B2B",
-      description: "Solución completa de comercio para empresa salvadoreña en el area de mecatronica con gestión de inventario en tiempo real y panel administrativo personalizado. Diseñado bajo acuerdos de confidencialidad..",
+      description: "Solución completa de comercio para empresa salvadoreña en el area de mecatronica con gestión de inventario en tiempo real y panel administrativo personalizado. Diseñado bajo acuerdos de confidencialidad.",
       tech: ["React.js", "Node.js", "MongoDB"],
       image: "skyautomation.webp", // Foto de fondo
       video: "/videos/skyautomation_.mp4" // <--- AQUÍ PONDRÁS LA RUTA DE TU VIDEO LOCAL
